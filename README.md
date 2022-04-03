@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live demo on heroku: [react quiz live demo](https://dashboard.heroku.com/apps/react-quiz-app-live/deploy/heroku-git).
 
 ## Available Scripts
 
